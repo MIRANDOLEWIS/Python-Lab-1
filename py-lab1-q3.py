@@ -5,10 +5,3 @@ for x in a:
          res.append(x)
 
 print(res)
-
-        
-
-
-
-
-
